@@ -1,1 +1,2 @@
-Hola esta es una prueba 2
+Hola esta es una prueba 
+Esto es una prueba de laboratorio
